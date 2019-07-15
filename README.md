@@ -1,2 +1,2 @@
 # DataFlix
-Some work with python and postgresql
+Work with python,postgresql and data visualization.
